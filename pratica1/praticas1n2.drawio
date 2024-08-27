@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MZbYM7oq79_7RkiPS2B-7" value="Medicamentos" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="630" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3MZbYM7oq79_7RkiPS2B-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="3MZbYM7oq79_7RkiPS2B-8" target="3MZbYM7oq79_7RkiPS2B-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3MZbYM7oq79_7RkiPS2B-8" value="faz" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="80" height="60" as="geometry" />
+          <mxGeometry x="240" y="150" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MZbYM7oq79_7RkiPS2B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="3MZbYM7oq79_7RkiPS2B-19" target="3MZbYM7oq79_7RkiPS2B-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -252,7 +252,7 @@
             <mxPoint x="640" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MZbYM7oq79_7RkiPS2B-101" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tipo&amp;nbsp;de&amp;nbsp;medicamento&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="3MZbYM7oq79_7RkiPS2B-101" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;tipo&amp;nbsp;de&amp;nbsp;medicamento" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="670" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3MZbYM7oq79_7RkiPS2B-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="3MZbYM7oq79_7RkiPS2B-103" target="3MZbYM7oq79_7RkiPS2B-4" edge="1">
@@ -262,17 +262,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MZbYM7oq79_7RkiPS2B-103" value="possui o registro de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="470" y="140" width="90" height="80" as="geometry" />
+        <mxCell id="3MZbYM7oq79_7RkiPS2B-103" value="Contém" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="510" y="150" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LsznBjY860uSF-alQRub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LsznBjY860uSF-alQRub-2" target="3MZbYM7oq79_7RkiPS2B-4">
+        <mxCell id="LsznBjY860uSF-alQRub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LsznBjY860uSF-alQRub-12" target="3MZbYM7oq79_7RkiPS2B-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="400" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsznBjY860uSF-alQRub-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;valor&amp;nbsp;total" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LsznBjY860uSF-alQRub-4" value="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsznBjY860uSF-alQRub-5" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsznBjY860uSF-alQRub-6" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsznBjY860uSF-alQRub-7" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsznBjY860uSF-alQRub-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;valor&amp;nbsp;total" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="440" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
