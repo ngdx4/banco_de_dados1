@@ -262,7 +262,7 @@
         <mxCell id="3MZbYM7oq79_7RkiPS2B-103" value="possui o registro de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="140" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsznBjY860uSF-alQRub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LsznBjY860uSF-alQRub-2" target="3MZbYM7oq79_7RkiPS2B-4">
+        <mxCell id="LsznBjY860uSF-alQRub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LsznBjY860uSF-alQRub-2" target="3MZbYM7oq79_7RkiPS2B-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="450" />
