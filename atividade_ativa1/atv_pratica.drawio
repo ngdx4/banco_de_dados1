@@ -1,9 +1,154 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Página-1" id="wPIng2Xh3KR4gwBSG4xh">
-    <mxGraphModel>
+    <mxGraphModel dx="604" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-50" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Título&amp;nbsp;do&amp;nbsp;livro" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="600" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-2" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-1322c721-7fff-bd5c-f44d-53b997e082f1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Uma biblioteca deseja criar um sistema para controlar os empréstimos de livros aos alunos e professores da universidade. Para cada &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;livro&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; é registrado o &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;título, o(s) autor(es), editora, ISBN e um status (disponível ou não)&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. Uma &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;pessoa&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; ao &lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(38, 38, 38); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;solicitar&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(38, 38, 38); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; o &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(38, 38, 38); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;empréstimo&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; informa o seu&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#000000;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; nome, RG e telefone e os títulos dos livros&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. No caso do &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(38, 38, 38); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: rgb(255, 255, 0);&quot;&gt;aluno&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;, ele também deve informar a&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#000000;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; matrícula e o curso&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. Já o &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;professor&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; deve informar a &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;matrícula e o nome do departamento&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. A bibliotecária preenche numa&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; ficha &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;essas informações mais a&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; data do empréstimo e a data de devolução.&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Na devolução é calculado o atraso, se houver, e uma &lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#000000;background-color:#e06666;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;multa&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Arial,sans-serif;color:#262626;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; é aplicada a pessoa.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134" width="560" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="rUrXjsDJCeZkKTtBp2uj-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="rUrXjsDJCeZkKTtBp2uj-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276.5" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="rUrXjsDJCeZkKTtBp2uj-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.5" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.225;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-3" target="rUrXjsDJCeZkKTtBp2uj-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="233.39999999999998" y="590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="228" y="590" />
+              <mxPoint x="228" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-3" value="Livro" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="550" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-4" value="Ficha" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=1.002;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-5" target="rUrXjsDJCeZkKTtBp2uj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-5" value="Aluno" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-6" target="rUrXjsDJCeZkKTtBp2uj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-6" value="Pessoa" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=-0.002;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-7" target="rUrXjsDJCeZkKTtBp2uj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-7" target="rUrXjsDJCeZkKTtBp2uj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-7" value="Professor" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="310" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-13" value="T" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-20" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="160" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-22" target="rUrXjsDJCeZkKTtBp2uj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-22" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;Nome&amp;nbsp;do&amp;nbsp;departamento" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="190" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="rUrXjsDJCeZkKTtBp2uj-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151.5" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-26" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="139" y="160" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-28" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;Curso" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214" y="190" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-29" target="rUrXjsDJCeZkKTtBp2uj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-29" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="350" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-30" target="rUrXjsDJCeZkKTtBp2uj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-30" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;u&gt;RG&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="380" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-31" target="rUrXjsDJCeZkKTtBp2uj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-31" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Telefone" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="410" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-38" target="rUrXjsDJCeZkKTtBp2uj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-38" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Títulos&amp;nbsp;dos&amp;nbsp;livros" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="440" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-45" target="rUrXjsDJCeZkKTtBp2uj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-45" value="solicita o empréstimo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-52" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;o(s)&amp;nbsp;autor(es)" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="264" y="625" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-54" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Editora" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="239" y="650" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-58" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ISBN" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="215" y="675" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-60" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;status" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="700" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="350" as="sourcePoint" />
+            <mxPoint x="252" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.032;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUrXjsDJCeZkKTtBp2uj-60" target="rUrXjsDJCeZkKTtBp2uj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUrXjsDJCeZkKTtBp2uj-63" value="É preenchido a" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
