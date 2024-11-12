@@ -473,7 +473,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lHUE1d4cgoSOJHkCmwCl-38" value="SEMESTRE INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="lHUE1d4cgoSOJHkCmwCl-36">
+        <mxCell id="lHUE1d4cgoSOJHkCmwCl-38" value="STATUS CHAR(1) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="lHUE1d4cgoSOJHkCmwCl-36">
           <mxGeometry x="30" width="248.75" height="30" as="geometry">
             <mxRectangle width="248.75" height="30" as="alternateBounds" />
           </mxGeometry>
